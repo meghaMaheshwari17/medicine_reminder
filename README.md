@@ -1,4 +1,4 @@
-# med_reminder
+# medicine reminder
 
 It is a user-friendly reminder app meant to help people who are busy or can’t remember to take their 
 medications on time.
