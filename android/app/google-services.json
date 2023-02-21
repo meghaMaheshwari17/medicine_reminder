@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357224799074",
+    "project_id": "medreminder-cfb7f",
+    "storage_bucket": "medreminder-cfb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357224799074:android:3c2376a821795555ea6a3b",
+        "android_client_info": {
+          "package_name": "com.example.med_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357224799074-5706v8ueb1evda2qihg2skmilsotfqmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.med_reminder",
+            "certificate_hash": "67d939bcfd32ed40c1178a05e5b8353c4118be35"
+          }
+        },
+        {
+          "client_id": "357224799074-ggugq0qfr00e88sd15nf2gasr2es913g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "*****"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357224799074-ggugq0qfr00e88sd15nf2gasr2es913g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
